@@ -34,14 +34,76 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+<<<<<<< HEAD
+
+
+
+markup to give meaning, gives more users the ability to view your website
+
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+
+display block takes up the maximum width allowed and will start on a new line, while inline start on a new line and only takes as much width as it needs
+=======
+markup to give meaning, gives more usability to other users
+
+
+
+2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+
+display block take up the maximum width allowed and will start on a new line, while inline start on a new line and only take as much width as it needs
+>>>>>>> 2b4963c5c79996366eb98e3163a8875379a48b04
+
+
 
 3. What are the 4 areas of the box model?
 
+
+<<<<<<< HEAD
+
+
+content, padding, border, and margin
+
+
+
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+
+
+
+
+
+=======
+content, padding, border, and margin
+
+
+4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+
+>>>>>>> 2b4963c5c79996366eb98e3163a8875379a48b04
+main axis
+
+
+
+<<<<<<< HEAD
 
 5. Explain why git is valuable to a team of developers.
 
+
+
+
+git is valuable for version control and seperating branches, making sure if they are any bugs discovered in the new code it can be reverted
+
+
+
+
+=======
+5. Explain why git is valuable to a team of developers.
+
+git is valuable for version control and seperating branches, making sure if they are any bugs discovered in the new code it can be reverted
+
+>>>>>>> 2b4963c5c79996366eb98e3163a8875379a48b04
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
